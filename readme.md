@@ -32,6 +32,7 @@ about.html => it contains the main code for about.html
 contact.html => it contains the main code for contact.html
     contact.css => it contains the whole css code of contact.html
 
+👍 When you click on start free trial then you go on the login-signup.html page
 
 images folder contains all the images of projects used......
 
